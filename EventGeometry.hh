@@ -122,7 +122,8 @@
 #define WASSERSTEIN_NO_FLOAT32
 
 // the Wasserstein library (with FastJet compatibility)
-#include "wasserstein/Wasserstein.hh"
+//#include "wasserstein/Wasserstein.hh"
+#include "FactoryTools/EventGeometry/Wasserstein/wasserstein/Wasserstein.hh"
 
 
 BEGIN_WASSERSTEIN_NAMESPACE
